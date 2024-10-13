@@ -81,10 +81,13 @@ Here are my services what I can help you with:
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white)
 
-Frontend: HTML5, CSS3, Bootstrap, Javascript, Typescript, Jquery, React, Angular, Next.js, lonic, Svelte, Tailwind CSS, MUI, Storybook, KendoUI
-Backend: Node.js, Express, PHP, Ruby, Python Full Stack: MERN, MEAN, Django, Ruby on Rails APIs: Restful, GraphQL, SOAP, FAST
-Database: RDBMS (MySQL, PostgreSQL, Sqlite ), No-SQL (MongoDB, Firestore)
-CI/CD: Ansible, Jenkins, Circle CI, Docker, Kubernetes, Github, Bitbucket
+- Frontend: HTML5, CSS3, Bootstrap, Javascript, Typescript, Jquery, React, Angular, Next.js, lonic, Svelte, Tailwind CSS, MUI, Storybook, KendoUI
+
+- Backend: Node.js, Express, PHP, Ruby, Python Full Stack: MERN, MEAN, Django, Ruby on Rails APIs: Restful, GraphQL, SOAP, FAST
+
+- Database: RDBMS (MySQL, PostgreSQL, Sqlite ), No-SQL (MongoDB, Firestore)
+
+- CI/CD: Ansible, Jenkins, Circle CI, Docker, Kubernetes, Github, Bitbucket
 
 <hr/>
 I am always ready to bring your ideas to real life. Also, what I want to do through the collaboration on the project is to form a friendly relationship with creative and talent teams and mates. I am full-time available for you and I can start the project right now.
